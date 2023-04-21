@@ -28,6 +28,10 @@ If you want to switch to a different subreddit, click the stop icon to the left 
 
 If you're done playing with this for the day, you'll want to properly exit it so that the resources are returned to Google. Go to the Runtime menu above and select the "Disconnect and Delete Runtime" option.  If you don't do this, the program will run for several hours until it gets shut down by Google, and if you do this often enough, Google will severely limit the amount of time you can use this everyday.
 
+## Where to learn more
+
+If you like this demo and want to learn more about Generative AI, particularly Large Language Models or to get further support, you can head over to the [text-generation-webui page](https://github.com/oobabooga/text-generation-webui). This program is the main engine that drives my reddit imitator.
+
 ## Disclaimer and rules
 
 This code and models are provided as is. I'm not responsible for any physical or mental harm caused to you or others for using this as well as any other 2nd, 3rd or higher order consequences as a result of your use of this program. The instructions here may not always be up to date either.
