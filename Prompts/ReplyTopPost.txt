@@ -1,0 +1,7 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Reply to this Reddit post
+### Input:
+[Title:] (Post title goes here)
+[SelfText:] (Self text goes here, leave blank if none.)
+### Response:
