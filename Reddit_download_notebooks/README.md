@@ -1,5 +1,5 @@
 # README
-Since Reddit is planning on disabling its API access at the end of June 2023, I'm gonna provide the notebooks I've used to download subreddit data for training the Loras for imitating each sub.  These will be provided "as is" - I've not had the chance to refactor them or anything.
+Since Reddit is planning on disabling its API access at the end of June 2023, I'm gonna provide the notebooks I've used to download subreddit data for training the Loras for imitating each sub.  These will be provided "as is" - I've not had the chance to refactor them or to improve the style or fix any bugs or anything.
 
 There are two versions available - a default (DFS) version and a BFS version.  The default version will use DFS to traverse a comment tree to scrape all of the reply comments while the BFS version will use BFS instead.
 
